@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+verse = input("What is your favorite verse? ")
+challenge = input("What is a challenge you face? ")
+friend = input("Who is a friend that might help you? ")
+print ()
+print ("Hello " + name + ", I hope you are doing well. I am here to tell you about your favorite verse, " + verse + ". I hope you have memorized it. It can empower you to overcome your challenge, " + challenge + ". I hope you can find someone to help you. " + friend + " might be wise to help you. Reach out to them today!")
